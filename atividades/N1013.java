@@ -17,5 +17,7 @@ public class N1013 {
 		double maiorABC = (C+maiorAB+Math.abs(maiorAB-C))/2;
 				
 		System.out.printf("%.0f eh o maior",maiorABC);
+		
+		scanner.close();
 	}
 }
