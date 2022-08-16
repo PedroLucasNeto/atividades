@@ -14,7 +14,7 @@ public class N1018 {
 		
 		for (int i = 0; i < notas.length; i++) {
 			int conta = valor / notas[i]; 
-			System.out.printf("\n%d nota(s) de R$ %d ",conta, notas[i]);
+			System.out.printf("%d nota(s) de R$ %d ",conta, notas[i]);
 			valor = valor % notas[i];
 		}
 		scanner.close();
