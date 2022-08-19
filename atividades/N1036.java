@@ -12,7 +12,7 @@ public class N1036 {
 		double valor1 = Double.parseDouble(valores[0]);
 		double valor2 = Double.parseDouble(valores[1]);
 		double valor3 = Double.parseDouble(valores[3]);
-		
-		
+
+		//TODO finalizar questão;
 	}
 }
